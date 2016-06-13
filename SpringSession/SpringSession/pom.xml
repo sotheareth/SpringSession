@@ -8,7 +8,7 @@
 	<name>SpringSession</name>
 	<properties>
 		<spring.maven.artifact.version>4.2.6.RELEASE</spring.maven.artifact.version>
-		<spring.security.version>4.1.0 .RELEASE</spring.security.version>
+		<spring.security.version>4.1.0.RELEASE</spring.security.version>
 	</properties>
 
 	<dependencies>

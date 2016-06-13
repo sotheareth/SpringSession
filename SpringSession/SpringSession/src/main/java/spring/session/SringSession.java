@@ -38,4 +38,10 @@ public class SringSession {
 		req.getSession().setAttribute(NAME, name);
 		return name;
 	}
+	
+	
+	@RequestMapping(value = "/test")
+	public String test(HttpServletResponse response){
+		return "test";
+	}
 }
